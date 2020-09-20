@@ -1,0 +1,1 @@
+document.addEventListener("DOMContentLoaded",function(){var t=document.querySelectorAll(".tooltipped");M.Tooltip.init(t)});
